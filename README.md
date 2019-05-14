@@ -7,4 +7,6 @@ Creating an algorithm which can automatically perform high level classification 
 2. NLTK Experiments
 3. Clustering Experiments
 4. LDA Experiments
-
+5. Aspect Miner Package Test
+6. Self created Parsing Rules
+7. Aspect Miner Experiments
